@@ -14,12 +14,12 @@ A CSV file containing data on the 2020 Tokyo Olympics.
 - Microsoft PowerBI
   
 ## Data Cleaning
-
-- Data cleaning was performed using Jupyter Notebook and various Python libraries
-- Checked for null values and handled them appropriately.
-- Normalized data types for consistency.
-- Used box plots to identify and confirm the absence of outliers.
-- Dropped non-numeric columns that could negatively affect the machine learning model.
+Data cleaning was performed using Power Query in Power BI. 
+The process included:
+- Renaming columns for clarity and consistency
+- Standardizing the datetime format
+- Dropping irrelevant or redundant columns
+- Replacing empty rows with appropriate values etc.
 
 ## Exploratory Data Analysis (EDA)
 
