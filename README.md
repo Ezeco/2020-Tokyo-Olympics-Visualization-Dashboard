@@ -1,5 +1,5 @@
 # Project Documentation: *Data Analysis for 2020 Tokyo Olympics Games*
-
+---
 ## Project Title - PowerBI Visualization, Data Analysis for 2020 Tokyo Olympics Games
 
 ## Project Overview
@@ -10,13 +10,13 @@ The focus of this project is on analyzing the performance of countries in the 20
 A CSV file containing data on the 2020 Tokyo Olympics.
 
 ## Tools Used
-
-- Microsoft PowerBI
+- Power BI for data visualization and reporting
+- Power Query for data cleaning and transformation
   
 ## Data Cleaning
 Data cleaning was performed using Power Query in Power BI. 
 The process included:
-- Renaming columns for clarity and consistency
+
 - Standardizing the datetime format
 - Dropping irrelevant or redundant columns
 - Replacing empty rows with appropriate values etc.
