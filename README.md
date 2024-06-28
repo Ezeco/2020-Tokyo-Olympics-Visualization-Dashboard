@@ -60,7 +60,7 @@ Based on our findings, several factors contributed to the success of top-perform
 - Implement comprehensive preparation and training programs.
 
 # Tokyo-Olympics-2020-Visualization-PowerBI-Dashboard
-Tokyo Olympics 2020 Visualization dash board shows insights and visual data analysis of Total Medals won by participating countries, the following link directs you to a power bi visual dashboard https://app.powerbi.com/groups/me/dashboards/0c9bebcf-7221-453b-9648-f531e81e280c?ctid=dbc4fb19-9838-483e-b13d-950a0f1a88d7&pbi_source=linkShare
+Tokyo Olympics 2020 Visualization dash board shows insights and visual data analysis of Total Medals won by participating countries, the following link directs you to a power bi visual dashboard https://app.powerbi.com/view?r=eyJrIjoiZDQwNTM4ZjktZTY2Mi00YWRiLWJlODAtNTkwNWY3NGE2NzMwIiwidCI6ImY2NWQxY2U4LTYwOTEtNDk4Ny04ZmI4LWJjM2E0MTA5MDY3NSIsImMiOjl9
 
 ## Limitations
 
